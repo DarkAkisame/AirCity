@@ -903,3 +903,208 @@ LogInit: Object subsystem initialized
 [2018.09.11-18.03.53:544][899]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_SwordE1933DD844D1083EC3020C81973D17E2.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SP_Sword.uasset'
 [2018.09.11-18.03.57:124][100]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap29E963B94AA0F36FD07CBE8898B53C50.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2018.09.11-18.03.58:019][100]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap_BuiltData6AA20C5943BE8D4DBBE58CBF56F60780.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.11-18.08.13:521][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2018.09.11-18.08.14:532][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2018.09.11-18.08.19:009][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-18.08.41:772][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-18.08.58:021][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-18.08.58:204][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-18.08.58:212][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.08.58:212][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-18.08.58:212][116]PIE: New page: PIE session: FirstPersonExampleMap (Sep 11, 2018, 10:08:58 AM)
+[2018.09.11-18.08.58:212][116]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.11-18.08.58:226][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013577s)
+[2018.09.11-18.08.58:227][116]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.11-18.08.58:227][116]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2018.09.11-18.08.58:227][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014981s)
+[2018.09.11-18.08.58:257][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-18.08.58:311][116]LogInit: FAudioDevice initialized.
+[2018.09.11-18.08.58:348][116]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.11-18.08.58:350][116]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.11-14.08.58
+[2018.09.11-18.08.58:351][116]LogWorld: Bringing up level for play took: 0.002025
+[2018.09.11-18.08.58:364][116]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.685
+[2018.09.11-18.08.58:365][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.09.12:682][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.09.12:682][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-18.09.12:718][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-18.09.12:718][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.09.12:744][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-18.09.12:795][972]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.11-18.09.23:051][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-18.09.28:532][762]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2018.09.11-18.09.32:767][973]Cmd: DELETE
+[2018.09.11-18.09.32:768][973]Cmd: ACTOR DELETE
+[2018.09.11-18.09.32:961][973]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.09.11-18.09.32:986][973]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.09.11-18.09.37:631][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2018.09.11-18.09.39:335][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2018.09.11-18.09.40:948][443]Cmd: DELETE
+[2018.09.11-18.09.40:948][443]Cmd: ACTOR DELETE
+[2018.09.11-18.09.40:950][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.09.40:972][443]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.11-18.09.42:380][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2018.09.11-18.09.43:143][571]Cmd: DELETE
+[2018.09.11-18.09.43:144][571]Cmd: ACTOR DELETE
+[2018.09.11-18.09.43:146][571]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.09.43:169][571]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.11-18.09.44:742][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2018.09.11-18.09.47:522][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2018.09.11-18.09.51:776][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.11-18.09.52:505][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2018.09.11-18.09.54:854][222]Cmd: DELETE
+[2018.09.11-18.09.54:854][222]Cmd: ACTOR DELETE
+[2018.09.11-18.09.55:138][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.09.55:138][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.09.55:139][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.09.55:160][222]LogEditorActor: Deleted 3 Actors (0.306 secs)
+[2018.09.11-18.09.58:121][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2018.09.11-18.10.00:578][541]Cmd: DELETE
+[2018.09.11-18.10.00:578][541]Cmd: ACTOR DELETE
+[2018.09.11-18.10.00:581][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.00:581][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.00:606][541]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2018.09.11-18.10.01:963][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2018.09.11-18.10.03:088][688]Cmd: DELETE
+[2018.09.11-18.10.03:088][688]Cmd: ACTOR DELETE
+[2018.09.11-18.10.03:090][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.03:113][688]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.11-18.10.03:544][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2018.09.11-18.10.03:786][726]Cmd: DELETE
+[2018.09.11-18.10.03:786][726]Cmd: ACTOR DELETE
+[2018.09.11-18.10.03:788][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.03:812][726]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.11-18.10.04:344][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2018.09.11-18.10.04:522][766]Cmd: DELETE
+[2018.09.11-18.10.04:522][766]Cmd: ACTOR DELETE
+[2018.09.11-18.10.04:524][766]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.04:546][766]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.11-18.10.05:053][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2018.09.11-18.10.05:188][801]Cmd: DELETE
+[2018.09.11-18.10.05:188][801]Cmd: ACTOR DELETE
+[2018.09.11-18.10.05:190][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.05:213][801]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.11-18.10.05:737][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2018.09.11-18.10.06:044][849]Cmd: DELETE
+[2018.09.11-18.10.06:044][849]Cmd: ACTOR DELETE
+[2018.09.11-18.10.06:046][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.06:070][849]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.11-18.10.06:705][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2018.09.11-18.10.06:882][895]Cmd: DELETE
+[2018.09.11-18.10.06:882][895]Cmd: ACTOR DELETE
+[2018.09.11-18.10.06:885][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.06:908][895]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.11-18.10.07:558][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2018.09.11-18.10.07:866][950]Cmd: DELETE
+[2018.09.11-18.10.07:866][950]Cmd: ACTOR DELETE
+[2018.09.11-18.10.07:870][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.07:893][950]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.11-18.10.10:583][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.11-18.10.11:232][148]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.09.11-18.10.12:588][207]Cmd: DELETE
+[2018.09.11-18.10.12:588][207]Cmd: ACTOR DELETE
+[2018.09.11-18.10.12:590][207]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.09.11-18.10.12:613][207]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.11-18.10.17:387][494]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.09.11-18.10.19:021][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2018.09.11-18.10.19:993][624]Cmd: DELETE
+[2018.09.11-18.10.19:993][624]Cmd: ACTOR DELETE
+[2018.09.11-18.10.19:996][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.20:021][624]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.11-18.10.21:047][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2018.09.11-18.10.21:829][730]Cmd: DELETE
+[2018.09.11-18.10.21:829][730]Cmd: ACTOR DELETE
+[2018.09.11-18.10.21:830][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-18.10.21:854][730]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.11-18.10.24:011][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-18.10.24:078][864]MapCheck: New page: Map Check
+[2018.09.11-18.10.24:409][864]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.11-18.10.24:409][864]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.11-18.10.24:514][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.09.11-18.10.24:540][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.09.11-18.10.24:547][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-18.10.24:547][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SP_Sword, compiling. 
+[2018.09.11-18.10.24:555][864]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-18.10.24:555][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-18.10.24:555][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.11-18.10.24:601][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-18.10.24:601][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.09.11-18.10.24:620][864]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.09.11-18.10.25:423][864]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-18.10.25:423][864]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-18.10.25:424][864]TextureStreamingBuild: Display: Compiling optional shaders took 0.914 seconds.
+[2018.09.11-18.10.25:520][864]LogLevel: Display: Export Material TexCoord Scales took 0.096 seconds.
+[2018.09.11-18.10.25:544][864]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2018.09.11-18.10.25:586][864]LightingResults: New page: Lighting Build - Sep 11, 2018, 10:10:25 AM
+[2018.09.11-18.10.25:711][864]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.11-18.10.25:837][864]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.11-18.10.25:852][864]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.11-18.10.26:388][864]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.11-18.10.26:389][864]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1928
+[2018.09.11-18.10.31:541][864]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.11-18.10.31:541][864]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.11-18.10.31:541][864]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.11-18.10.31:542][864]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.11-18.10.31:542][864]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.11-18.10.31:714][864]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.11-18.10.31:714][864]MapCheck: New page: FirstPersonExampleMap - Sep 11, 2018, 10:10:31 AM
+[2018.09.11-18.10.31:725][864]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.09.11-18.10.31:850][864]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 135.556ms to complete.
+[2018.09.11-18.10.31:873][864]LogEditorBuildUtils: Build time 0:07
+[2018.09.11-18.10.31:994][865]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SP_Sword, compiling. 
+[2018.09.11-18.10.32:005][865]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SP_Sword, compiling. 
+[2018.09.11-18.10.32:020][865]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-18.10.32:020][865]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-18.10.42:461][391]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-18.11.00:347][449]Job is a success!
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:      BrickData 340x5x5 = 0.3Mb
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:          1: 5.9% covering 6.3% of volume
+[2018.09.11-18.11.00:767][450]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2018.09.11-18.11.00:979][450]LogMaterial: Warning: Material /Game/Weapon/Material/SP_Sword.SP_Sword needed to have new flag set bUsedWithStaticLighting !
+[2018.09.11-18.11.00:982][450]LogMaterial: Display: Missing cached shader map for material SP_Sword, compiling. 
+[2018.09.11-18.11.01:030][450]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.11-18.11.01:030][450]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-18.11.01:030][450]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-18.11.01:030][450]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.09.11-18.11.03:122][450]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.09.11-18.11.03:418][450]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2018.09.11-18.11.03:420][450]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2018.09.11-18.11.03:820][450]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2018.09.11-18.11.03:820][450]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2018.09.11-18.11.03:820][450]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2018.09.11-18.11.03:820][450]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2018.09.11-18.11.03:820][450]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2018.09.11-18.11.03:885][450]Lightmass on MSI: 30.5 sec total, 128 ms importing, 9 ms setup, 4.68 sec photons, 25.6 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 2:59 min total, 1:20 min processing.
+[2018.09.11-18.11.03:949][450]LogStaticLightingSystem: Illumination: 38.0 sec (2.08 sec encoding lightmaps, 716 ms encoding shadowmaps)
+[2018.09.11-18.11.03:950][450]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.09.11-18.11.03:950][450]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (6.7 MB streaming, 0.0 MB non-streaming), 7 textures
+[2018.09.11-18.11.04:272][450]DumpUnbuiltLightIteractions
+[2018.09.11-18.11.04:272][450]Lights with unbuilt interactions: 0
+[2018.09.11-18.11.04:272][450]
+[2018.09.11-18.11.04:272][450]Primitives with unbuilt interactions: 0
+[2018.09.11-18.11.06:879][451]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.11-18.11.06:879][451]MapCheck: New page: FirstPersonExampleMap - Sep 11, 2018, 10:11:06 AM
+[2018.09.11-18.11.06:976][451]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.91ms to complete.
+[2018.09.11-18.11.14:702][891]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-18.11.14:707][891]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-18.11.17:495][ 49]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap09CE3046481C5B0E40107EB0A6D98EC6.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.11-18.11.18:156][ 49]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap_BuiltData0C0C3622406DF34F6F6319B301063109.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.11-18.11.21:152][218]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap0DFFE5904109BA7F1F9CEB938049A863.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.11-18.11.21:852][218]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap_BuiltData00FDFDEE42ED875C5056A1BF700977F1.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.11-18.11.25:725][315]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.11-18.11.27:656][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/Material/SP_Sword" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SP_Sword.uasset" SILENT=true
+[2018.09.11-18.11.27:669][422]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_Sword0CDB27B8425BFE67D8D85BB1C87DEAD9.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SP_Sword.uasset'
