@@ -350,3 +350,521 @@ LogInit: Object subsystem initialized
 [2018.09.11-17.43.36:226][288]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap5DC3006146D4A3E06691FC9F9C560FEF.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2018.09.11-17.43.37:538][288]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap_BuiltDataA34EAB5B4B84896D64B2B4AB414161D7.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.11-17.43.41:207][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.45.01:546][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.45.59:833][974]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SwLow_4.fbx)
+[2018.09.11-17.45.59:970][974]LogFbx: Loading FBX Scene from C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SwLow_4.fbx
+[2018.09.11-17.46.00:000][974]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.11-17.46.06:872][974]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.11-17.46.07:136][974]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.09.11-17.46.07:271][974]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.46.07:271][974]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.46.07:271][974]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.46.07:299][974]LogStaticMesh: Building static mesh SwLow_4_Blade_low...
+[2018.09.11-17.46.07:334][974]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon/SwLow_4_Blade_low.SwLow_4_Blade_low
+[2018.09.11-17.46.07:398][974]LogStaticMesh: Building static mesh SwLow_4_Cap_low...
+[2018.09.11-17.46.07:400][974]LogStaticMesh: Built static mesh [0.00s] /Game/Weapon/SwLow_4_Cap_low.SwLow_4_Cap_low
+[2018.09.11-17.46.07:415][974]LogStaticMesh: Building static mesh SwLow_4_Gard_low...
+[2018.09.11-17.46.07:422][974]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon/SwLow_4_Gard_low.SwLow_4_Gard_low
+[2018.09.11-17.46.07:435][974]LogStaticMesh: Building static mesh SwLow_4_Grip_low...
+[2018.09.11-17.46.07:439][974]LogStaticMesh: Built static mesh [0.00s] /Game/Weapon/SwLow_4_Grip_low.SwLow_4_Grip_low
+[2018.09.11-17.46.07:460][974]LogStaticMesh: Building static mesh SwLow_4_BigGear_low...
+[2018.09.11-17.46.07:469][974]LogStaticMesh: Built static mesh [0.01s] /Game/Weapon/SwLow_4_BigGear_low.SwLow_4_BigGear_low
+[2018.09.11-17.46.07:481][974]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.11-17.46.09:557][ 89]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-17.46.09:559][ 89]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-17.49.05:422][584]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-17.49.16:131][817]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SP_Sword_compleate.fbx)
+[2018.09.11-17.49.16:142][817]LogFbx: Loading FBX Scene from C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SP_Sword_compleate.fbx
+[2018.09.11-17.49.16:152][817]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.11-17.49.17:342][817]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.11-17.49.17:366][817]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.49.17:396][817]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.49.17:396][817]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.49.17:396][817]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.49.17:417][817]LogStaticMesh: Building static mesh SP_Sword_compleate...
+[2018.09.11-17.49.17:460][817]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-17.49.17:482][817]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.11-17.49.20:390][989]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-17.49.20:394][989]LogSlate: Window 'Message Log' being destroyed
+[2018.09.11-17.49.24:584][240]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-17.49.25:863][240]LogSlate: Took 0.006211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.11-17.49.49:843][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.49.50:030][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/SP_Sword_compleate" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset" SILENT=true
+[2018.09.11-17.49.50:045][656]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_Sword_compleate8732FC7E49C2B84D038690805DE16A0F.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset'
+[2018.09.11-17.49.51:418][738]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-17.49.51:426][738]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-17.49.55:563][964]LogAssetEditorManager: Opening Asset editor for Material /Game/Weapon/lambert2.lambert2
+[2018.09.11-17.49.55:623][964]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.49.55:811][964]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.49.55:830][964]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.49.55:831][964]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.49.55:831][964]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.49.55:831][964]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.49.55:857][964]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.11-17.49.55:890][964]LogSlate: Took 0.006775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.11-17.49.56:497][988]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.49.56:565][992]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.49.56:579][993]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.49.56:579][993]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.49.56:736][  2]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.49.56:766][  4]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.49.56:815][  7]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.49.56:815][  7]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.49.56:946][ 15]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.49.57:137][ 26]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.49.57:300][ 34]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.49.57:358][ 38]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.49.57:475][ 45]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.49.57:611][ 53]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.49.57:660][ 56]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.49.57:914][ 71]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.49.57:930][ 72]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.49.58:095][ 82]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.49.58:124][ 84]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.49.59:535][168]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.09.11-17.49.59:535][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.09.11-17.49.59:535][168]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.11-17.49.59:535][168]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.11-17.50.01:925][308]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.50.01:973][309]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.50.01:973][309]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.50.01:973][309]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.50.01:973][309]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.50.02:185][322]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.50.02:218][324]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.50.02:233][325]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.50.02:233][325]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.50.02:384][334]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.50.02:400][335]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.50.02:416][336]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.50.02:416][336]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.50.02:566][345]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.50.02:700][353]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.50.02:869][363]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.50.02:901][365]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.50.03:052][374]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.50.03:152][380]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.50.03:186][382]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.50.03:439][397]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.50.03:471][399]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.50.03:842][421]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.09.11-17.50.03:843][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.09.11-17.50.03:843][421]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.11-17.50.03:843][421]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.11-17.50.21:774][ 18]LogEditorFactories: Performing atomic reimport of [C:/Users/Michael_laptop/Desktop/SP_Sword/Done/SP_Sword_compleate.fbx]
+[2018.09.11-17.50.21:815][ 18]LogFbx: Loading FBX Scene from C:/Users/Michael_laptop/Desktop/SP_Sword/Done/SP_Sword_compleate.fbx
+[2018.09.11-17.50.21:824][ 18]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.11-17.50.21:877][ 18]LogStaticMesh: Building static mesh SP_Sword_compleate...
+[2018.09.11-17.50.21:910][ 18]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-17.50.21:935][ 18]LogEditorFactories: -- imported successfully
+[2018.09.11-17.50.21:941][ 18]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.11-17.50.21:980][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SwLow_4_lambert1_BaseColor.png)
+[2018.09.11-17.50.22:127][ 18]LogTexture: Display: Building textures: SwLow_4_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2018.09.11-17.50.22:831][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SwLow_4_lambert1_Normal.png)
+[2018.09.11-17.50.22:961][ 18]LogTexture: Display: Building textures: SwLow_4_lambert1_Normal (BC5, 2048X2048)
+[2018.09.11-17.50.23:191][ 18]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Michael_laptop\Desktop\SP_Sword\Done\SwLow_4_lambert1_OcclusionRoughnessMetallic.png)
+[2018.09.11-17.50.23:339][ 18]LogTexture: Display: Building textures: SwLow_4_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.11-17.50.29:672][290]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SwLow_4_lambert1_BaseColorE306A92345868228AB836CA0E485B105.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SwLow_4_lambert1_BaseColor.uasset'
+[2018.09.11-17.50.30:061][290]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SwLow_4_lambert1_Normal71B81F9C41B1DC2AB45F20855B55A865.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SwLow_4_lambert1_Normal.uasset'
+[2018.09.11-17.50.30:476][290]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SwLow_4_lambert1_OcclusionRoughnD6FDAACC4371259647EF5D80D6218A65.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/Material/SwLow_4_lambert1_OcclusionRoughnessMetallic.uasset'
+[2018.09.11-17.50.44:272][ 98]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.50.44:286][ 98]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.11-17.50.44:345][ 99]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.50.44:345][ 99]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.50.44:345][ 99]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.50.44:345][ 99]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.50.44:950][135]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.50.45:000][138]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.50.45:015][139]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.50.45:015][139]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.50.45:188][149]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.50.45:205][150]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.50.45:249][153]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.50.45:249][153]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.50.45:400][162]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.50.45:553][171]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.50.45:702][180]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.50.45:784][185]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.50.45:905][192]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.50.46:022][199]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.50.46:106][204]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.50.46:337][218]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.50.46:337][218]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.50.46:503][228]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.50.46:573][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.50.46:813][246]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.09.11-17.50.46:813][246]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.09.11-17.50.46:813][246]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.11-17.50.46:813][246]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.11-17.50.50:918][491]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.50.50:932][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.11-17.50.50:972][492]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.50.50:972][492]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.50.50:973][492]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.50.50:973][492]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.50.51:205][506]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.50.51:205][506]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.50.51:238][508]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.50.51:238][508]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.50.51:407][518]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.50.51:422][519]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.50.51:422][519]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.50.51:471][522]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.50.51:606][530]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.50.51:797][539]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.50.51:963][549]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.50.51:979][550]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.50.52:115][558]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.50.52:271][567]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.50.52:362][572]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.50.52:577][584]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.50.52:592][585]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.50.52:743][594]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.50.52:843][600]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.50.53:065][613]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.09.11-17.50.53:065][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.09.11-17.50.53:065][613]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.11-17.50.53:065][613]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.11-17.50.53:378][631]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.50.53:393][631]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.50.53:393][631]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.50.53:393][631]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.50.53:393][631]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.50.53:393][631]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.11-17.50.53:650][643]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.50.53:684][645]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.50.53:684][645]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.50.53:699][646]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.50.53:870][656]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.50.53:870][656]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.50.53:918][659]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.50.53:918][659]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.50.54:073][668]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.50.54:221][677]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.50.54:405][688]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.50.54:476][692]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.50.54:608][700]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.50.54:708][706]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.50.54:758][709]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.50.54:998][723]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.50.55:015][724]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.50.55:163][733]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.50.55:198][735]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.50.55:675][763]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.09.11-17.50.55:675][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.09.11-17.50.55:675][763]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.09.11-17.50.55:675][763]MaterialEditorStats: Texture samplers: 3/16
+[2018.09.11-17.51.02:401][166]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.51.02:421][166]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.51.02:421][166]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.51.02:421][166]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.51.02:421][166]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.51.02:423][166]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.09.11-17.51.02:698][181]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.51.02:731][183]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.51.02:732][183]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.51.02:747][184]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.51.02:928][195]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.51.02:928][195]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.51.02:961][197]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.51.02:978][198]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.51.03:111][206]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.51.03:258][215]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.51.03:397][223]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.51.03:462][227]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.51.03:596][235]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.51.03:696][241]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.51.03:796][247]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.51.04:009][260]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.51.04:025][261]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.51.04:160][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.51.04:229][273]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.11-17.51.04:461][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.11-17.51.12:511][752]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.51.12:527][752]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.51.12:527][752]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.51.12:527][752]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.51.12:527][752]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.51.12:531][752]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.11-17.51.12:795][766]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.51.12:827][768]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.51.12:841][769]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.51.12:841][769]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.51.13:040][781]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.51.13:040][781]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.51.13:040][781]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.51.13:056][782]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.51.13:242][793]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.51.13:358][800]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.51.13:558][812]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.51.13:574][813]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.51.13:723][822]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.51.13:843][829]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.51.13:857][830]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.51.14:060][842]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.51.14:142][847]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.51.14:292][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.51.14:311][857]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.09.11-17.51.14:567][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.11-17.53.56:707][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 10.422
+[2018.09.11-17.53.56:732][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/SP_Sword_compleate] ([1] browsable assets)...
+[2018.09.11-17.53.56:757][905]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate]
+[2018.09.11-17.53.56:757][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/SP_Sword_compleate]
+[2018.09.11-17.53.56:785][905]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_Sword_compleate_Auto1A3D116F8459D4630BC9192A98D3A48E7.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/Autosaves/Game/Weapon/SP_Sword_compleate_Auto1.uasset'
+[2018.09.11-17.53.56:792][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapon/lambert2] ([1] browsable assets)...
+[2018.09.11-17.53.56:816][905]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Weapon/lambert2.lambert2]
+[2018.09.11-17.53.56:817][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/lambert2]
+[2018.09.11-17.53.56:817][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/lambert2" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/Autosaves/Game/Weapon/lambert2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.09.11-17.53.56:846][905]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/lambert2_Auto1297C77174FACA05EE362758738437B95.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/Autosaves/Game/Weapon/lambert2_Auto1.uasset'
+[2018.09.11-17.53.56:851][905]LogFileHelpers: Auto-saving content packages took 0.139
+[2018.09.11-17.54.06:333][989]LogMaterialEditor: Saving and Compiling material lambert2
+[2018.09.11-17.54.07:150][989]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.54.07:225][989]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.54.07:225][989]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.54.07:225][989]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.54.07:225][989]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.54.09:361][989]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.54.09:386][989]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.54.21:977][989]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2018.09.11-17.55.36:356][989]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.11-17.55.36:356][989]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.11-17.55.36:356][989]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.11-17.55.36:356][989]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.55.36:357][989]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.55.36:398][989]TextureStreamingBuild: Display: Compiling optional shaders took 74.776 seconds.
+[2018.09.11-17.55.41:037][989]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.55.41:118][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/lambert2" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/lambert2.uasset" SILENT=true
+[2018.09.11-17.55.41:142][989]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/lambert2536C88E743A4138CEFB5418CA29383B8.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/lambert2.uasset'
+[2018.09.11-17.56.39:951][290]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.56.39:970][290]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.56.39:970][290]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.56.39:970][290]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.56.39:971][290]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.56.39:974][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.11-17.56.41:898][401]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.56.42:431][432]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.56.42:671][446]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.56.42:876][458]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.56.43:128][473]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.56.43:128][473]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.56.43:490][494]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.56.43:745][509]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.56.44:307][542]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.56.44:548][556]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.56.44:581][558]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.56.44:795][570]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.56.44:828][570]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.11-17.56.44:946][575]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.56.45:310][593]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.56.45:502][604]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.56.45:777][620]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.56.46:027][635]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.56.46:043][636]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.56.46:063][637]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.56.46:418][658]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.56.46:466][661]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.56.46:499][663]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.56.46:651][672]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.56.46:869][685]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.56.46:869][685]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.56.47:379][714]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.56.47:463][719]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.56.47:861][742]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.56.47:998][750]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.56.48:099][756]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.56.48:260][765]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.56.48:278][765]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.56.48:286][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.09.11-17.56.48:801][794]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.56.48:905][800]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.56.48:936][802]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.56.49:448][832]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.56.49:448][832]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.56.49:471][833]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.56.49:655][844]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.11-17.56.49:872][857]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.11-17.56.49:905][859]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.11-17.56.50:143][873]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.11-17.56.50:161][874]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.11-17.56.50:277][881]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.56.50:311][883]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.11-17.56.51:043][926]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.11-17.56.51:230][937]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.11-17.56.51:250][937]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.11-17.56.51:775][968]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.11-17.56.51:901][975]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.11-17.56.51:920][976]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.11-17.56.52:428][992]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.11-17.56.52:664][999]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.11-17.56.52:825][  2]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.56.52:976][  5]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.09.11-17.56.53:210][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.11-17.57.06:519][181]LogMaterialEditor: Applying material lambert2
+[2018.09.11-17.57.07:035][181]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.57.07:080][181]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.11-17.57.07:080][181]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.11-17.57.07:081][181]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.11-17.57.07:081][181]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.11-17.57.07:104][181]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.57.07:121][181]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.09.11-17.57.07:167][181]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.11-17.57.08:623][181]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.11-17.57.08:625][181]TextureStreamingBuild: Display: Compiling optional shaders took 1.465 seconds.
+[2018.09.11-17.57.11:120][327]LogMaterialEditor: Saving and Compiling material lambert2
+[2018.09.11-17.57.11:777][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/lambert2" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/lambert2.uasset" SILENT=true
+[2018.09.11-17.57.11:796][327]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/lambert20EAE7097424FFEA4FD26978FCF41926F.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/lambert2.uasset'
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: Base pass shader: 116 instructions
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.09.11-17.57.11:811][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.11-17.57.14:037][459]LogSlate: Window 'lambert2' being destroyed
+[2018.09.11-17.57.14:044][459]LogSlate: Window 'lambert2' being destroyed
+[2018.09.11-17.57.21:501][899]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-17.57.27:265][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.57.27:383][234]LogSlate: Window 'SP_Sword_compleate*' being destroyed
+[2018.09.11-17.57.27:387][234]LogSlate: Window 'SP_Sword_compleate*' being destroyed
+[2018.09.11-17.57.29:077][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/SP_Sword_compleate" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset" SILENT=true
+[2018.09.11-17.57.29:085][308]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_Sword_compleate8A2583664E80C93066AD9AA296DEDB58.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset'
+[2018.09.11-17.57.29:849][346]LogActorFactory: Actor Factory created SP_Sword_compleate
+[2018.09.11-17.57.31:826][459]LogActorFactory: Actor Factory created SP_Sword_compleate
+[2018.09.11-17.57.43:336][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.57.44:002][160]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-17.57.44:318][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.57.44:345][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-17.57.44:416][160]PIE: New page: PIE session: FirstPersonExampleMap (Sep 11, 2018, 9:57:44 AM)
+[2018.09.11-17.57.44:423][160]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.11-17.57.44:460][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037369s)
+[2018.09.11-17.57.44:461][160]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.11-17.57.44:467][160]LogPlayLevel: PIE: World Init took: (0.007002s)
+[2018.09.11-17.57.44:467][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044578s)
+[2018.09.11-17.57.44:516][160]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-17.57.44:570][160]LogInit: FAudioDevice initialized.
+[2018.09.11-17.57.44:634][160]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.11-17.57.44:732][160]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.11-13.57.44
+[2018.09.11-17.57.44:803][160]LogWorld: Bringing up level for play took: 0.092652
+[2018.09.11-17.57.44:944][160]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.11-17.57.44:966][160]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.287
+[2018.09.11-17.57.44:966][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.57.54:108][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.57.54:389][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.57.54:466][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-17.57.54:466][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.57.54:494][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.57.54:553][684]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.11-17.57.56:158][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.11-17.57.57:799][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.58.06:089][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SP_Sword_compleate)
+[2018.09.11-17.58.07:791][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-17.58.41:043][359]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-17.58.41:051][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.58.41:051][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-17.58.41:051][359]PIE: New page: PIE session: FirstPersonExampleMap (Sep 11, 2018, 9:58:41 AM)
+[2018.09.11-17.58.41:051][359]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.11-17.58.41:065][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013092s)
+[2018.09.11-17.58.41:065][359]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.11-17.58.41:066][359]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2018.09.11-17.58.41:066][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014179s)
+[2018.09.11-17.58.41:094][359]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-17.58.41:149][359]LogInit: FAudioDevice initialized.
+[2018.09.11-17.58.41:465][359]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.11-17.58.41:468][359]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.11-13.58.41
+[2018.09.11-17.58.41:469][359]LogWorld: Bringing up level for play took: 0.002351
+[2018.09.11-17.58.41:482][359]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.197
+[2018.09.11-17.58.41:482][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.59.05:774][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.59.05:774][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.59.05:807][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-17.59.05:807][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-17.59.05:832][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-17.59.05:885][794]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.09.11-17.59.09:161][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-17.59.37:444][177]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-17.59.50:490][940]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-17.59.50:496][940]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-17.59.54:582][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SP_Sword_compleate)
+[2018.09.11-17.59.56:053][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-18.00.01:810][579]Cmd: TRANSACTION UNDO
+[2018.09.11-18.00.01:810][579]LogEditorTransaction: Undo Reset Scale
+[2018.09.11-18.00.22:192][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-18.00.22:385][772]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Weapon/SP_Sword_compleate.SP_Sword_compleate
+[2018.09.11-18.00.38:723][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/SP_Sword_compleate" FILE="C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset" SILENT=true
+[2018.09.11-18.00.38:742][700]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/SP_Sword_compleateD3EC3F124A79C6EF8394978761AC6F80.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/Weapon/SP_Sword_compleate.uasset'
+[2018.09.11-18.00.40:770][821]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-18.00.40:776][821]LogSlate: Window 'SP_Sword_compleate' being destroyed
+[2018.09.11-18.00.43:177][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-18.00.43:186][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.00.43:186][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-18.00.43:186][956]PIE: New page: PIE session: FirstPersonExampleMap (Sep 11, 2018, 10:00:43 AM)
+[2018.09.11-18.00.43:186][956]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.11-18.00.43:199][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012719s)
+[2018.09.11-18.00.43:200][956]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.11-18.00.43:200][956]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2018.09.11-18.00.43:200][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013844s)
+[2018.09.11-18.00.43:230][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-18.00.43:282][956]LogInit: FAudioDevice initialized.
+[2018.09.11-18.00.43:320][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.11-18.00.43:322][956]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.11-14.00.43
+[2018.09.11-18.00.43:323][956]LogWorld: Bringing up level for play took: 0.001803
+[2018.09.11-18.00.43:335][956]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.344
+[2018.09.11-18.00.43:335][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.01.13:937][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.01.13:937][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-18.01.13:971][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-18.01.13:971][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.11-18.01.13:998][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-18.01.14:041][724]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.11-18.02.00:176][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-18.02.00:336][101]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMapAF18615844631027CB0A218C028B428E.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.11-18.02.01:259][101]LogSavePackage: Moving 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Saved/FirstPersonExampleMap_BuiltData939982F74469CCF7B7F3118C53843AD2.tmp' to 'C:/Users/Michael_laptop/Desktop/UnityProjects/AirCity/AIrShipCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
